@@ -14,6 +14,7 @@
 <p>Download the files from the link and swap the downloaded style.css with my one, then copy and paste the script from the paste.html file
 into your add.php and edit.php files in the style>theme>posts or style>theme>pages folders.  You'll need to change the id in the paste.html 
 script to "html" if this is in the edit.php files.</p>
+<p>Remember to change the cssfile in the paste.html to read the url of your style.css</p>
 
 
 ==========
